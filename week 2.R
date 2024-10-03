@@ -75,7 +75,13 @@
  
  elephant1_kg <-  3492 
  elephant2_lb <-7757
-
+ elephant1_kg <-  3492 
+ > elephant2_lb <-7757
+ > elephant1_lb <- elephant1_kg * 2.2
+ > elephant1_lb <- elephant1_kg * 2.2
+ > myelephants <- c(elephant1_lb,elephant2_lb)
+ > which (myelephants == max (myelephants))
+ [1] 2
  
  
  
