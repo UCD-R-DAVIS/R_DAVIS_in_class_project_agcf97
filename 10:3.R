@@ -49,7 +49,7 @@ animals[c(2,3)]
 weight_g <- c(21, 34, 39, 54, 55)
 weight_g > 50
 weight_g[weight_g > 50]
-
+j
 
 ### Symbols 
 #%in%
@@ -58,3 +58,4 @@ animals %in% c("rat", "cat", "dog", "duck", "goat")
 #seeing if it exists in other vector
 #%in% within a bucket
 # == pairwise matching -- ORDER MATTERS
+
