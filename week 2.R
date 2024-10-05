@@ -83,9 +83,13 @@
  > which (myelephants == max (myelephants))
  [1] 2
  
+1^2
+1^2 
+
  
  
- 
+ 2^3
+d 
  
  
  
