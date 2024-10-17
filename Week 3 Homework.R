@@ -1,5 +1,5 @@
 surveys<- read.csv("data/portal_data_joined.csv")
-select(surveys, species_id, weight, plot_id)
+#select(surveys, species_id, weight, plot_id)
 library(dplyr)
 select(surveys, species_id, weight, plot_id)
 colnames(surveys)
