@@ -22,3 +22,5 @@ mloa1 <- mloa |>
          temp_F_10m = C_to_F(mloa$temp_C_10m), 
          temp_F_towertop = C_to_F(mloa$temp_C_towertop))
 glimpse(mloa1)
+#stringr
+
